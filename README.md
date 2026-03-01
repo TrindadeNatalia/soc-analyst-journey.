@@ -1,4 +1,5 @@
   SOC Analyst Journey – Natália Trindade
+  
 Hoje iniciei oficialmente minha transição para a área de Cibersegurança com foco em SOC (Security Operations Center).
 
   O que é Cibersegurança?
